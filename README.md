@@ -3,7 +3,7 @@ Python automated Instagram account creator &amp; manager using advanced API  | r
 
 # 🔑FEATURES
 - ✅ Request based (doesn't use browser) 
-- 🌐 Dynamic Fingerprin
+- 🌐 Dynamic Fingerprint
 - 📱 web/mobile/ios API
 - 🔐 Proxy support
 - ✅ Captcha Handling
@@ -19,7 +19,7 @@ Python automated Instagram account creator &amp; manager using advanced API  | r
 
 # 🇮🇩 🔑FITUR PREMIUM PEMBUAT AKUN INSTAGRAM
 - ✅ Berbasis request (tidak menggunakan browser)
-- 🌐 Fingerprint dinamis
+- 🌐 Fingerprint dinamic
 - 📱 API web/mobile/iOS
 - 🔐 Dukungan proxy
 - ✅ Penanganan Captcha
