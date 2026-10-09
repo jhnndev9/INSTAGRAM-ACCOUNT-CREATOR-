@@ -4,6 +4,7 @@ Python automated Instagram account creator &amp; manager using advanced API  | r
 With features like account creation, auto-follow auto-like auto-comment
 
 # 🔑FEATURES
+
 - ✅ Request based (doesn't use browser) 
 - 🌐 Dynamic Fingerprint
 - 📱 web/mobile/ios API
